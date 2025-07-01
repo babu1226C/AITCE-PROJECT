@@ -24,6 +24,7 @@ In this project, we:
 - **Scikit-learn** – Machine learning model and evaluation
 - **Matplotlib, Seaborn** – Data visualization
 - **Jupyter Notebook** – Interactive experimentation
+- **Stremlit** - using for web showing the interface 
 
 ---
 
